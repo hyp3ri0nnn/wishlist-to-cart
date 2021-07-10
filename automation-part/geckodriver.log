@@ -1,0 +1,963 @@
+1625180039770	geckodriver	INFO	Listening on 127.0.0.1:59329
+1625180042800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileU3cMhT"
+1625180043173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileU3cMhT\\search.json.mozlz4", (void 0)))
+1625180045317	Marionette	INFO	Listening on port 59337
+1625180045494	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+[Child 12880, MediaDecoderStateMachine #1] WARNING: Decoder=1eb5a4d4800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12880, MediaDecoderStateMachine #1] WARNING: Decoder=1eb5a4d4800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625180328089	Marionette	INFO	Stopped listening on port 59337
+5180199354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilebt9RLT"
+1625180199634	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilebt9RLT\\search.json.mozlz4", (void 0)))
+1625180201296	Marionette	INFO	Listening on port 59530
+1625180201398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180281953	Marionette	INFO	Stopped listening on port 59530
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexBhtFX"
+1625180278865	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexBhtFX\\search.json.mozlz4", (void 0)))
+1625180280514	Marionette	INFO	Listening on port 59619
+1625180280590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180327190	Marionette	INFO	Stopped listening on port 59619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625180330859	geckodriver	INFO	Listening on 127.0.0.1:59700
+1625180333872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile8CnwXb"
+1625180334137	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile8CnwXb\\search.json.mozlz4", (void 0)))
+1625180336046	Marionette	INFO	Listening on port 59708
+1625180336520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180405685	Marionette	INFO	Stopped listening on port 59708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileAVB6XS"
+1625180403188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileAVB6XS\\search.json.mozlz4", (void 0)))
+1625180404832	Marionette	INFO	Listening on port 59805
+1625180404975	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1625181449414	Marionette	INFO	Stopped listening on port 59805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileS3tCsg\\search.json.mozlz4", (void 0)))
+1625180428353	Marionette	INFO	Listening on port 59887
+1625180428721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180552366	Marionette	INFO	Stopped listening on port 59881625180553062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilePK3scj"
+1625180553329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilePK3scj\\search.json.mozlz4", (void 0)))
+1625180555366	Marionette	INFO	Listening on port 59996
+1625180555716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625180714430	Marionette	INFO	Stopped listening on port 59996
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileKvx0ml"
+1625180711923	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileKvx0ml\\search.json.mozlz4", (void 0)))
+1625180713579	Marionette	INFO	Listening on port 60104
+1625180713714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 1 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/curator_admin~eventcomponents.js?contenthash=d1c49e7f4a28a8aec594)
+1625181414268	Marionette	INFO	Stopped listening on port 60104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3lvmAG"
+1625181414148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3lvmAG\\search.json.mozlz4", (void 0)))
+1625181416179	Marionette	INFO	Listening on port 60445
+1625181416539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181566229	Marionette	INFO	Stopped listening on port 60445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilejRcPAD"
+1625181565594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilejRcPAD\\search.json.mozlz4", (void 0)))
+1625181567180	Marionette	INFO	Listening on port 60549
+1625181567381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181599785	Marionette	INFO	Stopped listening on port 60541625181600923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilerhAIfs"
+1625181601201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilerhAIfs\\search.json.mozlz4", (void 0)))
+1625181603187	Marionette	INFO	Listening on port 60647
+1625181603580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181634368	Marionette	INFO	Stopped listening on port 60641625181635348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilep6U9sQ"
+1625181635609	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilep6U9sQ\\search.json.mozlz4", (void 0)))
+1625181637578	Marionette	INFO	Listening on port 60756
+1625181638000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625181694787	Marionette	INFO	Stopped listening on port 60756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625181726191	geckodriver	INFO	Listening on 127.0.0.1:60859
+1625181729272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3u95BW"
+1625181729537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3u95BW\\search.json.mozlz4", (void 0)))
+1625181731561	Marionette	INFO	Listening on port 60867
+1625181731933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=fw9dnrb82fGl&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/wishlist.css?v=4sef-mj-ulkJ&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://www.loginask.com/how-to-login-to-steam-without-steam-guard line 1 > injectedScript, line 1: TypeError: window.onload is not a function
+JavaScript error: https://www.loginask.com/how-to-login-to-steam-without-steam-guard line 1 > injectedScript, line 1: TypeError: addStylesNode is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625182495018	Marionette	INFO	Stopped listening on port 60867
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625182502774	geckodriver	INFO	Listening on 127.0.0.1:61308
+1625182505799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileLg3ZKK"
+1625182506100	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileLg3ZKK\\search.json.mozlz4", (void 0)))
+1625182508191	Marionette	INFO	Listening on port 61316
+1625182508441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=fw9dnrb82fGl&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/wishlist.css?v=4sef-mj-ulkJ&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=fw9dnrb82fGl&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/wishlist.css?v=4sef-mj-ulkJ&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+SourceActor threw an exception: Error: Failed to fetch https://store.steampowered.com/wishlist/profiles/76561198156180756/#sort=order. Code 2152398862.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://store.steampowered.com/wishlist/profiles/76561198156180756/#sort=order. Code 2152398862.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://store.steampowered.com/wishlist/profiles/76561198156180756/#sort=order. Code 2152398862.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625183373754	Marionette	INFO	Stopped listening on port 61316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyHMIx7"
+1625183354592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyHMIx7\\search.json.mozlz4", (void 0)))
+1625183356209	Marionette	INFO	Listening on port 61870
+1625183356388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625183416059	Marionette	INFO	Stopped listening on port 61870
+1625183419057	geckodriver	INFO	Listening on 127.0.0.1:61958
+1625183422070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilehckGXY"
+1625183422347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilehckGXY\\search.json.mozlz4", (void 0)))
+1625183424263	Marionette	INFO	Listening on port 61966
+1625183424720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625183469815	Marionette	INFO	Stopped listening on port 61966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625183471719	geckodriver	INFO	Listening on 127.0.0.1:62082
+1625183474752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileX4EG7H"
+1625183475024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileX4EG7H\\search.json.mozlz4", (void 0)))
+1625183476915	Marionette	INFO	Listening on port 62090
+1625183477435	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+[Parent 19984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 19984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+console.warn: "Already stopped listening to websocket events for this window."
+console.warn: "Already stopped listening to server sent events for this window."
+1625184563039	Marionette	INFO	Stopped listening on port 62090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625210563330	geckodriver	INFO	Listening on 127.0.0.1:51307
+1625210566351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile5Bb7pa"
+1625210567084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile5Bb7pa\\search.json.mozlz4", (void 0)))
+1625210569447	Marionette	INFO	Listening on port 51316
+1625210569550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://community.akamai.steamstatic.com/public/javascript/promo/stickers.js?v=upl9NJ5D2xkP&l=english, line 93: unreachable code after return statement
+1625210667122	Marionette	INFO	Stopped listening on port 51316
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625210721424	geckodriver	INFO	Listening on 127.0.0.1:51585
+1625210724451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilefMsQ4t"
+1625210724750	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilefMsQ4t\\search.json.mozlz4", (void 0)))
+1625210726622	Marionette	INFO	Listening on port 51593
+1625210727110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625210788690	Marionette	INFO	Stopped listening on port 51593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625213009131	geckodriver	INFO	Listening on 127.0.0.1:51937
+1625213012225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileNILl97"
+1625213012608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileNILl97\\search.json.mozlz4", (void 0)))
+1625213014466	Marionette	INFO	Listening on port 51945
+1625213014893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625213075235	Marionette	INFO	Stopped listening on port 51945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625241969591	geckodriver	INFO	Listening on 127.0.0.1:57635
+1625241972631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileSSKebF"
+1625241973352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileSSKebF\\search.json.mozlz4", (void 0)))
+1625241975776	Marionette	INFO	Listening on port 57643
+1625241975813	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1625241976398	Marionette	INFO	Stopped listening on port 57643
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625242088940	geckodriver	INFO	Listening on 127.0.0.1:57672
+1625242091963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyL3fXZ"
+1625242092342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyL3fXZ\\search.json.mozlz4", (void 0)))
+1625242094225	Marionette	INFO	Listening on port 57680
+1625242094627	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+1625248673438	Marionette	INFO	Stopped listening on port 57680
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileIy8YOM"
+1625244709497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileIy8YOM\\search.json.mozlz4", (void 0)))
+1625244711171	Marionette	INFO	Listening on port 57933
+1625244711190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625244753936	Marionette	INFO	Stopped listening on port 57931625244755112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileWo0RAs"
+1625244755347	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileWo0RAs\\search.json.mozlz4", (void 0)))
+1625244756769	Marionette	INFO	Listening on port 58008
+1625244757156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625244792642	Marionette	INFO	Stopped listening on port 58008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625244801358	geckodriver	INFO	Listening on 127.0.0.1:58093
+1625244804388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileTm8npq"
+1625244804630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileTm8npq\\search.json.mozlz4", (void 0)))
+1625244806083	Marionette	INFO	Listening on port 58101
+1625244806455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/store_game_shared.css?v=kTQXgVodaFoU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=OuA5QZfxs2qC&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/recommended.css?v=oWm2kjhUN9WS&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1625248669748	Marionette	INFO	Stopped listening on port 58101
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileAiRKG2"
+1625245452395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileAiRKG2\\search.json.mozlz4", (void 0)))
+1625245454063	Marionette	INFO	Listening on port 58263
+1625245454212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625248670805	Marionette	INFO	Stopped listening on port 58263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileoYTFXw"
+1625247611177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileoYTFXw\\search.json.mozlz4", (void 0)))
+1625247612838	Marionette	INFO	Listening on port 58452
+1625247612979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625247667101	Marionette	INFO	Stopped listening on port 58452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625247670128	geckodriver	INFO	Listening on 127.0.0.1:58546
+1625247673153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileYBuWEw"
+1625247673396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileYBuWEw\\search.json.mozlz4", (void 0)))
+1625247674975	Marionette	INFO	Listening on port 58556
+1625247675200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/shared/javascript/jquery-1.8.3.min.js?v=.TZ2NKhB-nliU, line 2: NS_ERROR_NOT_INITIALIZED: 
+1625247722487	Marionette	INFO	Stopped listening on port 58556
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625247728937	geckodriver	INFO	Listening on 127.0.0.1:58646
+1625247731963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileKcOYya"
+1625247732220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileKcOYya\\search.json.mozlz4", (void 0)))
+1625247734110	Marionette	INFO	Listening on port 58654
+1625247734138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625247766471	Marionette	INFO	Stopped listening on port 58654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625247782376	geckodriver	INFO	Listening on 127.0.0.1:58742
+1625247785391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexIGq5p"
+1625247785637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexIGq5p\\search.json.mozlz4", (void 0)))
+1625247787067	Marionette	INFO	Listening on port 58750
+1625247787432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625247831280	Marionette	INFO	Stopped listening on port 58750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625247856179	geckodriver	INFO	Listening on 127.0.0.1:58867
+1625247859203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileFdOiWD"
+1625247859449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileFdOiWD\\search.json.mozlz4", (void 0)))
+1625247861031	Marionette	INFO	Listening on port 58875
+1625247861261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625248676722	Marionette	INFO	Stopped listening on port 58875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625247971804	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1625247989498	Marionette	INFO	Stopped listening on port 59002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625248011430	geckodriver	INFO	Listening on 127.0.0.1:59113
+1625248014444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileJWXM50"
+1625248014697	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileJWXM50\\search.json.mozlz4", (void 0)))
+1625248016397	Marionette	INFO	Listening on port 59122
+1625248016503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: Error: Loading CSS chunk 1 failed.
+(https://store.akamai.steamstatic.com/public/css/applications/store/curator_admin~eventcomponents.css?contenthash=a939c60a649999bcaa03)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1625248038676	Marionette	INFO	Stopped listening on port 59122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625248060925	geckodriver	INFO	Listening on 127.0.0.1:59221
+1625248063957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile97rUku"
+1625248064194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile97rUku\\search.json.mozlz4", (void 0)))
+1625248065761	Marionette	INFO	Listening on port 59230
+1625248065994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 75 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/main_english-json.js?contenthash=ce02ab68b2a049e54eff)
+1625248094887	Marionette	INFO	Stopped listening on port 59230
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625248125423	geckodriver	INFO	Listening on 127.0.0.1:59340
+1625248128442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofiletkDeGk"
+1625248128689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofiletkDeGk\\search.json.mozlz4", (void 0)))
+1625248130157	Marionette	INFO	Listening on port 59348
+1625248130498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1625248624527	Marionette	INFO	Stopped listening on port 59348
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Mamut\\AppData\\Local\\Temp\\rust_mozprofileifabjL\\search.json.mozlz4", (void 0)))
+1625248220769	Marionette	INFO	Listening on port 59475
+1625248220843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 109 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/shared_english-json.js?contenthash=43ffe026078d875019a3)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1625248291007	Marionette	INFO	Stopped listening on port 59475
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625312132558	geckodriver	INFO	Listening on 127.0.0.1:57347
+1625312135622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile1JWb2i"
+1625312136356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile1JWb2i\\search.json.mozlz4", (void 0)))
+1625312138718	Marionette	INFO	Listening on port 57355
+1625312138831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625312186284	Marionette	INFO	Stopped listening on port 57355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625312201448	geckodriver	INFO	Listening on 127.0.0.1:57447
+1625312204472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile7r1gMU"
+1625312204840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile7r1gMU\\search.json.mozlz4", (void 0)))
+1625312206689	Marionette	INFO	Listening on port 57455
+1625312207125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625312246669	Marionette	INFO	Stopped listening on port 57455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625312577431	geckodriver	INFO	Listening on 127.0.0.1:57581
+1625312580443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilehVvNWS"
+1625312580760	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilehVvNWS\\search.json.mozlz4", (void 0)))
+1625312582644	Marionette	INFO	Listening on port 57590
+1625312583099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625312668976	Marionette	INFO	Stopped listening on port 57590
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625312677139	geckodriver	INFO	Listening on 127.0.0.1:57792
+1625312680175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileun7p5p"
+1625312680463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileun7p5p\\search.json.mozlz4", (void 0)))
+1625312682342	Marionette	INFO	Listening on port 57802
+1625312682839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 75 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/main_english-json.js?contenthash=ce02ab68b2a049e54eff)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 13216, MediaDecoderStateMachine #1] WARNING: Decoder=1ab887b7000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 13216, MediaDecoderStateMachine #1] WARNING: Decoder=1ab887b7000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625312850651	Marionette	INFO	Stopped listening on port 57802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileHoQrez"
+1625312849931	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileHoQrez\\search.json.mozlz4", (void 0)))
+1625312851390	Marionette	INFO	Listening on port 57923
+1625312851739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 75 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/main_english-json.js?contenthash=ce02ab68b2a049e54eff)
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625314450916	Marionette	INFO	Stopped listening on port 57923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilerZwTZg\\search.json.mozlz4", (void 0)))
+1625313004015	Marionette	INFO	Listening on port 58057
+1625313004467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625313033435	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 14268, MediaDecoderStateMachine #1] WARNING: Decoder=247805e3400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 14268, MediaDecoderStateMachine #1] WARNING: Decoder=247805e3400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625314450230	Marionette	INFO	Stopped listening on port 58057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilePk5vHn\\search.json.mozlz4", (void 0)))
+1625313117291	Marionette	INFO	Listening on port 58173
+1625313117669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 75 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/main_english-json.js?contenthash=ce02ab68b2a049e54eff)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625314448842	Marionette	INFO	Stopped listening on port 58173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileHITntG\\search.json.mozlz4", (void 0)))
+1625313187944	Marionette	INFO	Listening on port 58299
+1625313188065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 109 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/shared_english-json.js?contenthash=43ffe026078d875019a3)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 8484, MediaDecoderStateMachine #1] WARNING: Decoder=20c04da4c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 8484, MediaDecoderStateMachine #1] WARNING: Decoder=20c04da4c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625314447322	Marionette	INFO	Stopped listening on port 58299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile4lys4G\\search.json.mozlz4", (void 0)))
+1625313236080	Marionette	INFO	Listening on port 58415
+1625313236265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625313273338	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 9916, MediaDecoderStateMachine #1] WARNING: Decoder=255525b0c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 9916, MediaDecoderStateMachine #1] WARNING: Decoder=255525b0c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625314444424	Marionette	INFO	Stopped listening on port 58415
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3hltor"
+1625314444684	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3hltor\\search.json.mozlz4", (void 0)))
+1625314446100	Marionette	INFO	Listening on port 58651
+1625314446475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625314486452	Marionette	INFO	Stopped listening on port 58651625314487734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilejUj1WD"
+1625314487985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilejUj1WD\\search.json.mozlz4", (void 0)))
+1625314489887	Marionette	INFO	Listening on port 58731
+1625314490392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625314512440	Marionette	INFO	Stopped listening on port 58731
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625314625119	geckodriver	INFO	Listening on 127.0.0.1:58828
+1625314628158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofiledWxRsA"
+1625314628417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofiledWxRsA\\search.json.mozlz4", (void 0)))
+1625314630334	Marionette	INFO	Listening on port 58836
+1625314630827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625314645840	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e0df0d000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e0df0d000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e0e033000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e0e033000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e09c05c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e09c05c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e0e72fc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 5508, MediaDecoderStateMachine #1] WARNING: Decoder=17e0e72fc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/user_reviews.css?v=-c7CCyRzI4Uu&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/store_game_shared.css?v=kTQXgVodaFoU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=OuA5QZfxs2qC&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/recommended.css?v=oWm2kjhUN9WS&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/user_reviews_rewards.css?v=5-HJZa1v4wFP&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/apphub.css?v=qJWwZwnwNLr6&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/ui-lightness/jquery-ui-1.7.2.custom.css?v=.23LkAmA0IgZV without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/applications/store/main.css?v=4iU-xdGjcDuj&l=english without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625315749659	Marionette	INFO	Stopped listening on port 58836
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625315757403	geckodriver	INFO	Listening on 127.0.0.1:59263
+1625315760441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyCDWnZ"
+1625315760719	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyCDWnZ\\search.json.mozlz4", (void 0)))
+1625315762596	Marionette	INFO	Listening on port 59271
+1625315763109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625315783850	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 20632, MediaDecoderStateMachine #1] WARNING: Decoder=2689ced8800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 20632, MediaDecoderStateMachine #1] WARNING: Decoder=2689ced8800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/user_reviews.css?v=-c7CCyRzI4Uu&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/store_game_shared.css?v=kTQXgVodaFoU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=OuA5QZfxs2qC&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/recommended.css?v=oWm2kjhUN9WS&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/user_reviews_rewards.css?v=5-HJZa1v4wFP&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/apphub.css?v=qJWwZwnwNLr6&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/ui-lightness/jquery-ui-1.7.2.custom.css?v=.23LkAmA0IgZV without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/applications/store/main.css?v=4iU-xdGjcDuj&l=english without a browsingContextID set
+1625316206200	Marionette	INFO	Stopped listening on port 59271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile9VAt6p"
+1625315884133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile9VAt6p\\search.json.mozlz4", (void 0)))
+1625315885596	Marionette	INFO	Listening on port 59395
+1625315885939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 15 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/localization/sales_english-json.js?contenthash=2ed78216920aa5ab9f69)
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 6840, MediaDecoderStateMachine #1] WARNING: Decoder=2426f402c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 6840, MediaDecoderStateMachine #1] WARNING: Decoder=2426f402c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/motiva_sans.css?v=Rc2hpzg2Ex3T&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_global.css?v=DNyAHkw02IjI&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/buttons.css?v=6PFqex5UPprb&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/store.css?v=af4GoQWbK5yr&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/user_reviews.css?v=-c7CCyRzI4Uu&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/store_game_shared.css?v=kTQXgVodaFoU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/game.css?v=OuA5QZfxs2qC&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/recommended.css?v=oWm2kjhUN9WS&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/v6/user_reviews_rewards.css?v=5-HJZa1v4wFP&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/apphub.css?v=qJWwZwnwNLr6&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/ui-lightness/jquery-ui-1.7.2.custom.css?v=.23LkAmA0IgZV without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/shared/css/shared_responsive.css?v=3g6jkueAuNYU&l=english without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://store.akamai.steamstatic.com/public/css/applications/store/main.css?v=4iU-xdGjcDuj&l=english without a browsingContextID set
+1625316210868	Marionette	INFO	Stopped listening on port 59395
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileiwTTYi"
+1625316204311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileiwTTYi\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: "Could not load engine amazondotcom@search.mozilla.org: Error: Data is not ready."
+console.error: "Could not load engine wikipedia@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine bing@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.error: "Could not load engine ddg@search.mozilla.org: TypeError: AddonManagerInternal._getProviderByName(...) is undefined"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: region-update-timer
+[Parent 12616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625316213220	geckodriver	INFO	Listening on 127.0.0.1:59542
+1625316216263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexGztR5"
+1625316216527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexGztR5\\search.json.mozlz4", (void 0)))
+1625316218393	Marionette	INFO	Listening on port 59551
+1625316218406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625316245031	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 11964, MediaDecoderStateMachine #1] WARNING: Decoder=2248c6b6c00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 11964, MediaDecoderStateMachine #1] WARNING: Decoder=2248c6b6c00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625316356381	Marionette	INFO	Stopped listening on port 59551
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileW5fxCU"
+1625316356433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileW5fxCU\\search.json.mozlz4", (void 0)))
+1625316357922	Marionette	INFO	Listening on port 59673
+1625316358157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625316418778	Marionette	INFO	Stopped listening on port 59673
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625316534163	geckodriver	INFO	Listening on 127.0.0.1:59788
+1625316537184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileEfue6T"
+1625316537453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileEfue6T\\search.json.mozlz4", (void 0)))
+1625316539358	Marionette	INFO	Listening on port 59796
+1625316539851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 15 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/localization/sales_english-json.js?contenthash=2ed78216920aa5ab9f69)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1625316909542	Marionette	INFO	Stopped listening on port 59796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+search.json.mozlz4", (void 0)))
+1625316668916	Marionette	INFO	Listening on port 52808
+1625316669304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1625316906766	Marionette	INFO	Stopped listening on port 52801625316908015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexkX7Uc"
+1625316908256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexkX7Uc\\search.json.mozlz4", (void 0)))
+1625316909694	Marionette	INFO	Listening on port 53012
+1625316910068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625316991798	Marionette	INFO	Stopped listening on port 53011625316992991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileR0fkDn"
+1625316993252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileR0fkDn\\search.json.mozlz4", (void 0)))
+1625316995183	Marionette	INFO	Listening on port 53131
+1625316995659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625317019604	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 21496, MediaDecoderStateMachine #1] WARNING: Decoder=1d3af204400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 21496, MediaDecoderStateMachine #1] WARNING: Decoder=1d3af204400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625317199681	Marionette	INFO	Stopped listening on port 53131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile5M4fxz"
+1625317199119	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile5M4fxz\\search.json.mozlz4", (void 0)))
+1625317200546	Marionette	INFO	Listening on port 53265
+1625317200919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625317650212	Marionette	INFO	Stopped listening on port 53265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileVnc2Ln"
+1625317383269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileVnc2Ln\\search.json.mozlz4", (void 0)))
+1625317385146	Marionette	INFO	Listening on port 53398
+1625317385674	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2696, MediaDecoderStateMachine #1] WARNING: Decoder=177d0926000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 2696, MediaDecoderStateMachine #1] WARNING: Decoder=177d0926000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625317649723	Marionette	INFO	Stopped listening on port 53398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyLVVaS"
+1625317580116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileyLVVaS\\search.json.mozlz4", (void 0)))
+1625317581592	Marionette	INFO	Listening on port 53535
+1625317581915	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12832, MediaDecoderStateMachine #1] WARNING: Decoder=22c98c0c000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 12832, MediaDecoderStateMachine #1] WARNING: Decoder=22c98c0c000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625317649199	Marionette	INFO	Stopped listening on port 53535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625317654309	geckodriver	INFO	Listening on 127.0.0.1:53673
+1625317657341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileybu7xp"
+1625317657601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileybu7xp\\search.json.mozlz4", (void 0)))
+1625317659485	Marionette	INFO	Listening on port 53681
+1625317660015	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20788, MediaDecoderStateMachine #1] WARNING: Decoder=21cdc9aec00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 20788, MediaDecoderStateMachine #1] WARNING: Decoder=21cdc9aec00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625317701258	Marionette	INFO	Stopped listening on port 53681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625493229642	geckodriver	INFO	Listening on 127.0.0.1:53596
+1625493232689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileKgZMic"
+1625493233435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileKgZMic\\search.json.mozlz4", (void 0)))
+1625493235856	Marionette	INFO	Listening on port 53604
+1625493235882	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17220, MediaDecoderStateMachine #1] WARNING: Decoder=2ac43d50800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 17220, MediaDecoderStateMachine #1] WARNING: Decoder=2ac43d50800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625493553618	Marionette	INFO	Stopped listening on port 53604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile2jH7tW"
+1625493368561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile2jH7tW\\search.json.mozlz4", (void 0)))
+1625493370092	Marionette	INFO	Listening on port 53765
+1625493370320	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1625493552044	Marionette	INFO	Stopped listening on port 53765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625519344086	geckodriver	INFO	Listening on 127.0.0.1:57124
+1625519347111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilehWWuvL"
+1625519347431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilehWWuvL\\search.json.mozlz4", (void 0)))
+1625519349355	Marionette	INFO	Listening on port 57132
+1625519349789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=cqDDLH3RYicB&l=english, line 15: ChunkLoadError: Loading chunk 75 failed.
+(error: https://store.akamai.steamstatic.com/public/javascript/applications/store/main_english-json.js?contenthash=ce02ab68b2a049e54eff)
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 10176, MediaDecoderStateMachine #1] WARNING: Decoder=236b2c14000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 10176, MediaDecoderStateMachine #1] WARNING: Decoder=236b2c14000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+[Child 10176, MediaDecoderStateMachine #1] WARNING: Decoder=236aeb05000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 10176, MediaDecoderStateMachine #1] WARNING: Decoder=236aeb05000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625520101082	Marionette	INFO	Stopped listening on port 57132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexXfaW9"
+1625520100707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilexXfaW9\\search.json.mozlz4", (void 0)))
+1625520102303	Marionette	INFO	Listening on port 57359
+1625520102422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625520267451	Marionette	INFO	Stopped listening on port 57351625520268354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileTekRVq"
+1625520268616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileTekRVq\\search.json.mozlz4", (void 0)))
+1625520270506	Marionette	INFO	Listening on port 57495
+1625520271011	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625520497885	Marionette	INFO	Stopped listening on port 57491625520498765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3XBiR7"
+1625520499018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3XBiR7\\search.json.mozlz4", (void 0)))
+1625520500745	Marionette	INFO	Listening on port 57687
+1625520500813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625520802224	Marionette	INFO	Stopped listening on port 57681625520803342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilengWmlj"
+1625520803611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilengWmlj\\search.json.mozlz4", (void 0)))
+1625520805462	Marionette	INFO	Listening on port 57916
+1625520805498	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1625521302346	Marionette	INFO	Stopped listening on port 57916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625521306084	geckodriver	INFO	Listening on 127.0.0.1:58114
+1625521309107	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofiletk7cgn"
+1625521309365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofiletk7cgn\\search.json.mozlz4", (void 0)))
+1625521311201	Marionette	INFO	Listening on port 58123
+1625521311269	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+1625521669044	Marionette	INFO	Stopped listening on port 58123
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile0fZdBK"
+1625521669054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile0fZdBK\\search.json.mozlz4", (void 0)))
+1625521670507	Marionette	INFO	Listening on port 58326
+1625521670845	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625522211815	Marionette	INFO	Stopped listening on port 58326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilef6HasU"
+1625522188187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilef6HasU\\search.json.mozlz4", (void 0)))
+1625522190168	Marionette	INFO	Listening on port 58632
+1625522190588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625522576607	Marionette	INFO	Stopped listening on port 58632
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3Kw5dJ"
+1625522229028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3Kw5dJ\\search.json.mozlz4", (void 0)))
+1625522230457	Marionette	INFO	Listening on port 58730
+1625522230829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625522575337	Marionette	INFO	Stopped listening on port 58731625522576170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileYifR3z"
+1625522576423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileYifR3z\\search.json.mozlz4", (void 0)))
+1625522577903	Marionette	INFO	Listening on port 58907
+1625522578218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625522996450	Marionette	INFO	Stopped listening on port 58907
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625761708420	geckodriver	INFO	Listening on 127.0.0.1:49967
+1625761711470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileZay9BO"
+1625761712201	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileZay9BO\\search.json.mozlz4", (void 0)))
+1625761714350	Marionette	INFO	Listening on port 49976
+1625761714652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625761804369	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1625761922819	Marionette	INFO	Stopped listening on port 49976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625761964158	geckodriver	INFO	Listening on 127.0.0.1:50171
+1625761967193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile0lwzsS"
+1625761967525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile0lwzsS\\search.json.mozlz4", (void 0)))
+1625761969417	Marionette	INFO	Listening on port 50179
+1625761969859	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 7184, MediaDecoderStateMachine #1] WARNING: Decoder=1e947131800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 7184, MediaDecoderStateMachine #1] WARNING: Decoder=1e947131800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1625769045308	Marionette	INFO	Stopped listening on port 50179
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
