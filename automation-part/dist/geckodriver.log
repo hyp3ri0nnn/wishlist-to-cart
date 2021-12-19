@@ -1,0 +1,75 @@
+1639912254912	geckodriver	INFO	Listening on 127.0.0.1:54598
+1639912257941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54599" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileek2hB8"
+1639912258183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileek2hB8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54599/devtools/browser/420bf6d6-8c03-44b6-be88-02894e7792fd
+1639912259719	Marionette	INFO	Listening on port 54604
+1639912259990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 8184, MediaDecoderStateMachine #1] WARNING: 2b8cd64bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 8184, MediaDecoderStateMachine #1] WARNING: 2b8cbcbdba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1639912745563	Marionette	INFO	Stopped listening on port 54604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639912943358	geckodriver	INFO	Listening on 127.0.0.1:60967
+1639912946381	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60968" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilezTKbff"
+1639912946651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilezTKbff\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60968/devtools/browser/82606c37-29c6-43d3-a1e7-ddfb66893c18
+1639912948179	Marionette	INFO	Listening on port 60973
+1639912948454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639912960090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 21628, MediaDecoderStateMachine #1] WARNING: Decoder=1b7988a3600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 21628, MediaDecoderStateMachine #1] WARNING: Decoder=1b7988a3600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1639912986678	Marionette	INFO	Stopped listening on port 60973
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639913080833	geckodriver	INFO	Listening on 127.0.0.1:61088
+1639913083875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61089" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3t9Zhf"
+1639913084109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofile3t9Zhf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61089/devtools/browser/f23fadde-eb49-4ecf-9e31-d7dc03cebe23
+1639913085581	Marionette	INFO	Listening on port 61094
+1639913085942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14464, MediaDecoderStateMachine #1] WARNING: 235c7551e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: https://store.akamai.steamstatic.com/public/javascript/applications/store/manifest.js?v=XVWwyOGWKWdy&l=english, line 15: Error: Loading CSS chunk 1 failed.
+(https://store.akamai.steamstatic.com/public/css/applications/store/curator_admin~eventcomponents.css?contenthash=1da1d931f1374ab96279)
+[Child 14464, MediaDecoderStateMachine #1] WARNING: Decoder=235ca4c5500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 14464, MediaDecoderStateMachine #1] WARNING: Decoder=235ca4c5500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1639913136618	Marionette	INFO	Stopped listening on port 61094
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639914296346	geckodriver	INFO	Listening on 127.0.0.1:49349
+1639914299374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileQ1cNX7"
+1639914299629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileQ1cNX7\\search.json.mozlz4", (void 0)))
+1639914301599	Marionette	INFO	Listening on port 49357
+1639914302036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18828, MediaDecoderStateMachine #1] WARNING: 1b3aa52c3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18828, MediaDecoderStateMachine #1] WARNING: 1b3a92732e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18828, MediaDecoderStateMachine #1] WARNING: 1b3b30439e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18828, MediaDecoderStateMachine #1] WARNING: 1b3a6081120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18828, MediaDecoderStateMachine #1] WARNING: 1b3a4d87820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1639914336005	Marionette	INFO	Stopped listening on port 49357
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639915593046	geckodriver	INFO	Listening on 127.0.0.1:56102
+1639915596062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilelx95MW"
+1639915596352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilelx95MW\\search.json.mozlz4", (void 0)))
+1639915598420	Marionette	INFO	Listening on port 56110
+1639915598766	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639915608897	Marionette	INFO	Stopped listening on port 56110
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
