@@ -1385,9 +1385,11 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
- for this session
-1639851539852	Marionette	INFO	Stopped listening on port 54932
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639854168362	Marionette	INFO	Stopped listening on port 54653
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+when attempting to fetch resource.
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
@@ -1544,3 +1546,47 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofilebFlAm8\\search.json.mozlz4", (void 0)))
 1639853699042	Marionette	INFO	Listening on port 60594
 1639853699353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18372, MediaDecoderStateMachine #1] WARNING: 2e352b489e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18372, MediaDecoderStateMachine #1] WARNING: 2e35b6939e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18372, MediaDecoderStateMachine #1] WARNING: 2e35b47bd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18372, MediaDecoderStateMachine #1] WARNING: 2e3523b6900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18372, MediaDecoderStateMachine #1] WARNING: 2e34f3a3d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1639854169870	Marionette	INFO	Stopped listening on port 60594
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23040, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+new NotFoundError("Could not open the file at C:\\Users\\Mamut\\AppData\\Local\\Temp\\rust_mozprofileJxJDZv\\search.json.mozlz4", (void 0)))
+1639853970838	Marionette	INFO	Listening on port 60763
+1639853971200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 20178f8c660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 201786242e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 201797a04a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 201796ac580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: Decoder=201048fa300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: Decoder=201048fa300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 20105a18120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 201784fbf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: 20105a81e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: Decoder=20104f30800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:367
+[Child 16784, MediaDecoderStateMachine #1] WARNING: Decoder=20104f30800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3568
+1639854166247	Marionette	INFO	Stopped listening on port 60763
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
